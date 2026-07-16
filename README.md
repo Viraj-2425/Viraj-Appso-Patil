@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi ,I'm Viraj<br><br>Motivated Computer Science Engineering student with skills in Python, SQL and data analytics, passionate about software development and problem-solving. Seeking an opportunity to apply technical knowledge, enhance practical skills, and contribute effectively to organizational growth. 
+Hi ,I'm Viraj<br><br>Motivated Computer Science Engineering student with skills in Python, SQL and data analytics, passionate about software development and problem-solving. Seeking an opportunity to apply technical knowledge,enhance practical skills, and contribute effectively to organizational growth. 
 
 
 ## 🌐 Socials:
